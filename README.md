@@ -38,7 +38,7 @@ The only analog pin on the nodemcu is separate with the 3v3 and GND pins next to
 
 ## Pinout definiton
 
-![Pionut definition](C:\Users\Urban\Documents\GitHub\Symbiolab_Driver)
+![Pionut definition](https://github.com/Ubercic/Symbiolab_Driver/blob/Changes/Symbiolab_driver_pinout.png)
 
 ## Testing
 
